@@ -25,9 +25,10 @@ main{
 }
 
 footer{
-	background-color: gray;
+	background-color: black;
 	height: 100px;
 	text-align: center;
 	padding-top: 50px;
 	font-size: 18px;	
+	margin-top: auto;	
 }
