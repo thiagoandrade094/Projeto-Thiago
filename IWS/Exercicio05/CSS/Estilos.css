@@ -1,0 +1,92 @@
+body{
+	background-color: green;
+}
+
+main{
+	width: 960px;
+	height: auto;
+	background-color: blue;
+	margin: 10px auto;
+	padding: 5px 10px;	
+	border-width: 1px;
+}
+
+header{
+	height: 150px;
+	background-color: yellow;
+	padding: 5px;
+	border-width: 1px;
+	text-align: center;	
+	margin-top: 10px;
+}
+
+nav{
+	height: 35px;
+	background-color: orange;
+	padding: 5px;
+	border-width: 1px;
+	text-align: center;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#noticias{
+	height: auto;
+	background-color: red;
+	padding: 10px;
+	display: table;	
+}
+
+footer{
+	height: 120px;
+	background-color: brown;
+	padding: 5px;
+	border-width: 1px;
+	text-align: center;		
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#texto01{
+	width: 280px;
+	padding: 10px;	
+	background-color: white;
+	float: left;
+	margin-left: 10px;
+}
+
+#texto02{
+	width: 280px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: white;
+	float: left;
+	margin-left: 10px;
+}
+
+#texto03{
+	width: 280px;
+	padding: 10px;
+	background-color: white;
+	float: left;
+	margin-left: 10px;
+}
+
+
+#paragrafo4{
+			
+}
+
+#texto04{
+	width: 920px;
+	padding: 10px;
+	margin-top: 10px;	
+	background-color: white;	
+	float: left;	
+}
+
+#Escola{
+ 	width: 300px;
+ 	height: 150px;
+ 	float: left;	
+}
